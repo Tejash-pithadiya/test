@@ -1,4 +1,5 @@
 import React from 'react'
+import Tejash from './Tejash'
 
 const App = () => {
   return (
@@ -7,6 +8,7 @@ const App = () => {
       <p>This is my app</p>
       <div>
       i am Jaydip bela
+      <Tejash/>
     </div>
     </div>
   )
