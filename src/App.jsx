@@ -1,5 +1,6 @@
 import React from 'react'
 import Tejash from './Tejash'
+import Test from './Test'
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <div>
       i am Jaydip bela
       <Tejash/>
+  <Test/>
     </div>
     </div>
   )
